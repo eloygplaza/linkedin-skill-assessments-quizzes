@@ -420,7 +420,7 @@ null
 - [ ] Because it's based on JavaScript.
 - [ ] Because it is derived from SGML.
 
-#### Q31. You need to assemble a list of members, but your JSON is not parsing correctly. How do you change it?
+#### Q31. You need to assemble a list of team members, but your JSON is not parsing correctly. How do you change it?
 
 ```
 {
