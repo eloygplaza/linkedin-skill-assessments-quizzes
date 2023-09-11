@@ -1068,3 +1068,10 @@ myVehicleContents.van.inside['inside'] = gloveBoxContents;
 ```
 
 Hint: true needs to be a boolean and part-time a string so in double quotes.
+
+#### Q95. What is the correct way to encode boolean values?
+
+- [ ] `true, false`
+- [x] `"true", "false"`
+- [ ] `1, 0`
+- [ ] `TRUE, FALSE`
